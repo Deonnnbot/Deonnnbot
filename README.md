@@ -1,4 +1,6 @@
+![My Photo](https://telegra.ph/file/6218b06b40fcd5d047f00.jpg)
 # Hey, I'm Nava! 👋
+
 A student aged 12, studying in PJUPS Kalavoor.
 
 I'm here to explore GitHub and help everyone.
