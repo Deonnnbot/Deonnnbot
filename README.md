@@ -1,8 +1,7 @@
 # Hey, I'm Nava! 👋
 A student aged 12, studying in PJUPS Kalavoor.
 
-And, I'm here to explore GitHub and help everyone.
-
+I'm here to explore GitHub and help everyone.
 Really, I'm busy at this time. Because, my school is opened. 
 
 ## How to contact me...
@@ -11,10 +10,9 @@ You can contact me using [Navaneeth's PM Bot (@PMNava_bot)](https://t.me/PMNava_
 
 ## Our Channels
 
-[Good Day Channel (By Nava)](https://t.me/GoodDayNava):
+*[Good Day Channel (By Nava)](https://t.me/GoodDayNava):
 Our main channel
-
-[Navaneeth's PM Bot Updates](https://t.me/NoPMNava):
+*[Navaneeth's PM Bot Updates](https://t.me/NoPMNava):
 Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 
 ## Our Groups
