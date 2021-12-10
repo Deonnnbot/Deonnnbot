@@ -10,9 +10,9 @@ You can contact me using [Navaneeth's PM Bot (@PMNava_bot)](https://t.me/PMNava_
 
 ## Our Channels
 
-*[Good Day Channel (By Nava)](https://t.me/GoodDayNava):
+* [Good Day Channel (By Nava)](https://t.me/GoodDayNava):
 Our main channel
-*[Navaneeth's PM Bot Updates](https://t.me/NoPMNava):
+* [Navaneeth's PM Bot Updates](https://t.me/NoPMNava):
 Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 
 ## Our Groups
