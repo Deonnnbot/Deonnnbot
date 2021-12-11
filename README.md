@@ -8,7 +8,9 @@ Really, I'm busy at this time. Because, my school is opened.
 
 ## How to contact me...
 
-You can contact me using [Navaneeth's Assistant (@PMNava_bot)](https://t.me/PMNava_bot) bot in Telegram.
+You can contact me using [Navaneeth's Assistant](https://t.me/PMNava_bot) bot in Telegram.
+
+_Not at this time because I'm busy._
 
 ## Our Channels
 
