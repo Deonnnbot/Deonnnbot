@@ -33,6 +33,8 @@ Made with ❤️ by [Good Day Channel (By Nava)](https://t.me/GoodDayNava).
 
 Note for a "so" called “[Me speaks](https://t.me/IniIppoEndumParaya)”:
 
+(English)
+
 What is the problem for you?
 
 You have any problem?
@@ -40,6 +42,16 @@ You have any problem?
 Don't blame me in any groups, including **_[Userge OnTopic](https://t.me/UsergeOT)_**.
 
 Comment me about this in [@PMNava_bot](https://t.me/PMNava_bot).
+
+(Malayalam)
+
+എന്താണ് ചേട്ടൻ്റെ പ്രശ്നം?
+
+ചേട്ടന് എന്തെങ്കിലും കുഴപ്പം ഉണ്ടോ?
+
+**_[Userge OnTopic](https://t.me/UsergeOT)_** ഉൾപ്പെടെയുള്ള ഒരു ഗ്രൂപ്പുകളിലും മോശമായി പറയരുത്.
+
+ഇതിനെ പറ്റി [@PMNava_bot](https://t.me/PMNava_bot) ബോട്ടിൽ കമൻ്റ് അറിയിക്കുക.
 
 
 <!---
