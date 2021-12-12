@@ -29,11 +29,11 @@ Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 A group for discussions. 
 Made with ❤️ by [Good Day Channel (By Nava)](https://t.me/GoodDayNava).
 
-### Note
+## Note
 
 Note for a "so" called “[Me speaks](https://t.me/IniIppoEndumParaya)”:
 
-(English)
+### Note in English
 
 What is the problem for you?
 
@@ -45,7 +45,7 @@ I am a student, aged 12 - 12 age finished, then going to 13.
 
 Comment me about this in [@PMNava_bot](https://t.me/PMNava_bot).
 
-(Malayalam)
+### Note in Malayalam
 
 എന്താണ് ചേട്ടൻ്റെ പ്രശ്നം?
 
