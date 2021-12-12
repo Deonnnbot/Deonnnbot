@@ -4,7 +4,11 @@
 A student aged 12, studying in PJUPS Kalavoor.
 
 I'm here to explore GitHub and help everyone.
-Really, I'm busy at this time. Because, my school is opened. 
+Really, I'm busy with my works at this time.
+
+## My Interests
+
+I know about so many functions in computer, devices that everybody didn't know.
 
 ## How to contact me...
 
