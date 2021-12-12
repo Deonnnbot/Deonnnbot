@@ -25,7 +25,7 @@ Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 
 ## Our Groups
 
-[Good Day Channel Nava: Chat](https://t.me/GoodDayNChat):
+[Good Day Channel's Chat](https://t.me/GoodDayNChat):
 A group for discussions. 
 Made with ❤️ by [Good Day Channel (By Nava)](https://t.me/GoodDayNava).
 
