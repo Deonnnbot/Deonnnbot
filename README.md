@@ -29,6 +29,18 @@ Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 A group for discussions. 
 Made with ❤️ by [Good Day Channel (By Nava)](https://t.me/GoodDayNava).
 
+### Note
+
+Note for a "so" called “[Me speaks](https://t.me/IniIppoEndumParaya)”:
+
+What is the problem for you?
+
+You have any problem?
+
+Don't blame me in any groups, including **_[Userge OffTopic](https://t.me/UsergeOT)_**.
+
+Comment me about this in [@PMNava_bot](https://t.me/PMNava_bot).
+
 
 <!---
 Navaneeth-Renjith-8282/Navaneeth-Renjith-8282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
