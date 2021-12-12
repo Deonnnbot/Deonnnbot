@@ -37,7 +37,7 @@ What is the problem for you?
 
 You have any problem?
 
-Don't blame me in any groups, including **_[Userge OffTopic](https://t.me/UsergeOT)_**.
+Don't blame me in any groups, including **_[Userge OnTopic](https://t.me/UsergeOT)_**.
 
 Comment me about this in [@PMNava_bot](https://t.me/PMNava_bot).
 
