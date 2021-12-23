@@ -3,59 +3,35 @@
 
 A student aged 13, studying in PJUPS Kalavoor.
 
-I'm here to explore GitHub and help everyone.
+Welcome to my GitHub profile! I'm here to explore GitHub and help everyone.
 Really, I'm busy with my works at this time.
 
 ## My Interests
 
 I know about so many functions in computer, devices that everybody didn't know.
 
-## How to contact me...
+## My Profiles
 
-You can contact me using [Navaneeth's Assistant](https://t.me/PMNava_bot) bot in Telegram.
+### Telegram:
 
-_Not at this time because I'm busy._
+My profile: **[@NavaneethRenjith](https://telegram.me/NavaneethRenjith)**
+
+My assistant bot: **[@PMNava_bot](https://telegram.me/PMNava_bot)**
+
+> Please contact me using my assistant bot. You can also contact me directly if it is important.
 
 ## Our Channels
 
-* [Good Day Channel (By Nava)](https://t.me/GoodDayNava):
+* **[Good Day Channel (By Nava)](https://telegram.me/GoodDayNava)**:
 Our main channel
-* [Navaneeth's Assistant Updates](https://t.me/NoPMNava):
+* **[Navaneeth's Assistant Updates](https://telegram.me/NoPMNava)**:
 Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 
 ## Our Groups
 
-[Good Day Channel's Chat](https://t.me/GoodDayNChat):
+**[Good Day Channel's Chat](https://t.me/GoodDayNChat)**:
 A group for discussions. 
 Made with ❤️ by [Good Day Channel (By Nava)](https://t.me/GoodDayNava).
-
-## Note
-
-Note for a "so" called “[Me speaks](https://t.me/IniIppoEndumParaya)”:
-
-### Note in English
-
-What is the problem for you?
-
-You have any problem?
-
-Don't blame me in any groups, including **_[Userge OnTopic](https://t.me/UsergeOT)_**.
-
-I am a student, aged 13 - 12 age finished, then going to 13.
-
-Comment me about this in [@PMNava_bot](https://t.me/PMNava_bot).
-
-### Note in Malayalam
-
-എന്താണ് ചേട്ടൻ്റെ പ്രശ്നം?
-
-ചേട്ടന് എന്തെങ്കിലും കുഴപ്പം ഉണ്ടോ?
-
-**_[Userge OnTopic](https://t.me/UsergeOT)_** ഉൾപ്പെടെയുള്ള ഒരു ഗ്രൂപ്പുകളിലും മോശമായി പറയരുത്.
-
-ഞാൻ 13 വയസ്സുള്ള ഒരു കുട്ടിയാണ് - 12 വയസ്സ് പ്രായം കഴിഞ്ഞു, ഇനി 13 വയസ്സ് എത്തുകയാണ്.
-
-ഇതിനെ പറ്റി [@PMNava_bot](https://t.me/PMNava_bot) ബോട്ടിൽ കമൻ്റ് അറിയിക്കുക.
 
 
 <!---
