@@ -1,10 +1,13 @@
 ![My Photo](https://telegra.ph/file/6218b06b40fcd5d047f00.jpg)
 # Hey, I'm Nava! 👋
 
-A student aged 13, studying in PJUPS Kalavoor.
+A student, studying in PJUPS Kalavoor.
+
+```
+age = {age._private}
+```
 
 Welcome to my GitHub profile! I'm here to explore GitHub and help everyone.
-Really, I'm busy with my works at this time.
 
 ## My Interests
 
