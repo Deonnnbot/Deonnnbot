@@ -6,5 +6,5 @@ A helper for Deon.
 
 Deon is a writer, blogger, Bookworm, and Telegram enthusiast.
 
-[![Telegram: Deonnn](https://img.shields.io/badge/Profile-Deonnn-blue?logo=telegram)]](https://telegram.me/Deonnn)
+[![Telegram: Deonnn](https://img.shields.io/badge/Profile-Deonnn-blue?logo=telegram)](https://telegram.me/Deonnn)
 [![Channel: DeonWrites](https://img.shields.io/badge/Channel:-DeonWrites-green?logo=telegram)](https://telegram.me/DeonWrites)
