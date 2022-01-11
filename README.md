@@ -30,16 +30,16 @@ I know about so many functions in computer, devices that everybody didn't know.
 
 ## Our Channels
 
-* [![@GoodDayNava](https://img.shields.io/badge/Good_Day_Channel_(By_Nava)-@GoodDayNava-brown?logo=telegram)](https://telegram.me/GoodDayNava):
+* [![@GoodDayNava](https://img.shields.io/badge/Good_Day_Channel_(By_Nava)-@GoodDayNava-brown?logo=telegram)](https://telegram.me/GoodDayNava)
 Our main channel (Language: Malayalam)
-* [![@NoPMNava](https://img.shields.io/badge/Navaneeth's_Assistant_Updates-@NoPMNava-blue?logo=telegram)](https://telegram.me/NoPMNava):
-Updates of [@PMNava_bot](https://t.me/PMNava_bot).
+* [![@NoPMNava](https://img.shields.io/badge/Navaneeth's_Assistant_Updates-@NoPMNava-blue?logo=telegram)](https://telegram.me/NoPMNava)
+Updates of [@PMNava_bot](https://telegram.me/PMNava_bot).
 
 > Don't forget to subscribe [my channel](https://telegram.me/GoodDayNava)!
 
 ## Our Groups
 
-[![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?logo=telegram)](https://telegram.me/GoodDayNChat):
+[![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?logo=telegram)](https://telegram.me/GoodDayNChat)
 A group for discussions. Made with ❤️ by [Good Day Channel (By Nava)](https://telegram.me/GoodDayNava).
 
 ## Stats
