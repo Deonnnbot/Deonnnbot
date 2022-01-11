@@ -1,10 +1,12 @@
-![My Photo](https://telegra.ph/file/6218b06b40fcd5d047f00.jpg)
+```python
+picture = <unavailable>
+```
 # Hey, I'm Nava! 👋
 
 A student, studying in PJUPS Kalavoor.
 
-```
-age = {age._private}
+```python
+age = age._private
 # I can't show my age to anyone.
 ```
 
@@ -14,29 +16,33 @@ Welcome to my GitHub profile! I'm here to explore GitHub and help everyone.
 
 I know about so many functions in computer, devices that everybody didn't know.
 
+> I also likes **cartoons**. 😄
+
 ## My Profiles
 
 ### Telegram:
 
-My profile: **[@NavaneethRenjith](https://telegram.me/NavaneethRenjith)**
+[![My Telegram Profile](https://img.shields.io/badge/My_profile:-@NavaneethRenjith-blue?logo=telegram)](https://telegram.me/NavaneethRenjith)
 
-My assistant bot: **[@PMNava_bot](https://telegram.me/PMNava_bot)**
+[![My assistant bot](https://img.shields.io/badge/My_assistant_bot:-@PMNava__bot-blue?logo=telegram)](https://telegram.me/PMNava_bot)
 
-> Please contact me using my assistant bot. You can also contact me directly if it is important.
+> In Telegram, please contact me using my assistant bot. You can also contact me directly if it is important.
+
+### GitHub: ![This profile!](https://img.shields.io/badge/(This_profile!)-blue?logo=github)
 
 ## Our Channels
 
-* **[Good Day Channel (By Nava)](https://telegram.me/GoodDayNava)**:
-Our main channel
-* **[Navaneeth's Assistant Updates](https://telegram.me/NoPMNava)**:
+* [![@GoodDayNava](https://img.shields.io/badge/Good_Day_Channel_(By_Nava)-@GoodDayNava-brown?logo=telegram)](https://telegram.me/GoodDayNava):
+Our main channel (Language: Malayalam)
+* [![@NoPMNava](https://img.shields.io/badge/Navaneeth's_Assistant_Updates-@NoPMNava-blue?logo=telegram)](https://telegram.me/NoPMNava):
 Updates of [@PMNava_bot](https://t.me/PMNava_bot).
+
+> Don't forget to subscribe [my channel](https://telegram.me/GoodDayNava)!
 
 ## Our Groups
 
-**[Good Day Channel's Chat](https://t.me/GoodDayNChat)**:
-A group for discussions. 
-Made with ❤️ by [Good Day Channel (By Nava)](https://t.me/GoodDayNava).
-
+[![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?logo=telegram)](https://telegram.me/GoodDayNChat):
+A group for discussions. Made with ❤️ by [Good Day Channel (By Nava)](https://telegram.me/GoodDayNava).
 
 <!---
 Navaneeth-Renjith-8282/Navaneeth-Renjith-8282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
