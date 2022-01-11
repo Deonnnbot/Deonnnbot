@@ -1,6 +1,4 @@
-```python
-picture = <unavailable>
-```
+![Profile Photo](https://telegra.ph/file/5b4a8ad99b9aaf75f85d9.jpg)
 # Hey, I'm Nava! 👋
 
 A student, studying in PJUPS Kalavoor.
