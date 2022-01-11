@@ -42,6 +42,11 @@ Updates of [@PMNava_bot](https://t.me/PMNava_bot).
 [![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?logo=telegram)](https://telegram.me/GoodDayNChat):
 A group for discussions. Made with ❤️ by [Good Day Channel (By Nava)](https://telegram.me/GoodDayNava).
 
+## Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavaneethRenjith8282&show_icons=true&locale=en&count_private=true&theme=radical" alt="My GitHub Stats" /></p>
+
+
 <!---
 Navaneeth-Renjith-8282/Navaneeth-Renjith-8282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
