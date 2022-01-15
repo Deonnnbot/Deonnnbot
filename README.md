@@ -1,10 +1,10 @@
 ![Profile Photo](https://telegra.ph/file/5b4a8ad99b9aaf75f85d9.jpg)
 # Hey, I'm Nava! 👋
 
-A student, studying in PJUPS Kalavoor.
+A student in India.
 
 ```python
-age = age._private
+age = age.status("private")
 # I can't show my age to anyone.
 ```
 
@@ -30,7 +30,7 @@ I know about so many functions in computer, devices that everybody didn't know.
 
 ## Our Channels
 
-* [![@GoodDayNava](https://img.shields.io/badge/Good_Day_Channel_(By_Nava)-@GoodDayNava-brown?logo=telegram)](https://telegram.me/GoodDayNava)
+* [![GoodDayNava](https://img.shields.io/badge/Good_Day_Channel_(By_Nava)-@GoodDayNava-brown?logo=telegram)](https://telegram.me/GoodDayNava)
 Our main channel (Language: Malayalam)
 * [![@NoPMNava](https://img.shields.io/badge/Navaneeth's_Assistant_Updates-@NoPMNava-blue?logo=telegram)](https://telegram.me/NoPMNava)
 Updates of [@PMNava_bot](https://telegram.me/PMNava_bot).
@@ -42,9 +42,11 @@ Updates of [@PMNava_bot](https://telegram.me/PMNava_bot).
 [![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?logo=telegram)](https://telegram.me/GoodDayNChat)
 A group for discussions. Made with ❤️ by [Good Day Channel (By Nava)](https://telegram.me/GoodDayNava).
 
-## Stats
+## Stats and Contributions
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavaneethRenjith8282&show_icons=true&locale=en&count_private=true&theme=radical" alt="My GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavaneethRenjith8282&theme=radical&ring=DD0B0B" alt="My GitHub Streaks" /></p>
 
 
 <!---
