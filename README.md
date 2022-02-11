@@ -39,7 +39,7 @@ I know about so many functions in computer, devices that everybody didn't know.
 
 ## Our Groups
 
-* [![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?logo=telegram)](https://telegram.me/GoodDayNChat)
+* [![@GoodDayNChat](https://img.shields.io/badge/Good_Day_Channel's_Chat-@GoodDayNChat-brown?style=for-the-badge&logo=telegram)](https://telegram.me/GoodDayNChat)
 
   A group for discussions (Language: **Malayalam**). 
   Made with ❤️ by [Good Day Channel](https://telegram.me/GoodDayNava).
