@@ -17,9 +17,9 @@ I know about so many functions in computer, devices that everybody didn't know.
 
 ### Telegram:
 
-[![My Telegram Profile](https://img.shields.io/badge/My_profile:-@NavaneethRenjith-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/NavaneethRenjith)
+[![My Telegram Profile](https://img.shields.io/badge/My_profile:-@Im__AMusician-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Im_AMusician)
 
-[![My assistant bot](https://img.shields.io/badge/My_assistant_bot:-@PMNava__bot-blue?style=for-the-badge&logo=telegram)](https://telegram.me/PMNava_bot)
+[![My assistant bot](https://img.shields.io/badge/My_assistant_bot:-@PMNava__bot-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/PMNava_bot)
 
 > _In Telegram, please contact me using my assistant bot. You can also contact me **directly** if it is important._
 
