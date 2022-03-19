@@ -45,9 +45,9 @@ I know about so many functions in computer, devices that everybody didn't know.
 
 ## Stats on GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavaneethRenjith8282&show_icons=true&locale=en&count_private=true&theme=radical" alt="My GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navaneeth-Renjith&show_icons=true&locale=en&count_private=true&theme=radical" alt="My GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavaneethRenjith8282&theme=radical&ring=DD0B0B" alt="My GitHub Contributions and Streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-Renjith&theme=radical&ring=DD0B0B" alt="My GitHub Contributions and Streaks" /></p>
 
 <!---
 NavaneethRenjith8282/NavaneethRenjith8282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
